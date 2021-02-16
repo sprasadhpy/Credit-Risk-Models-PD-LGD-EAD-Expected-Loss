@@ -1,6 +1,7 @@
 # Credit-Risk-Models-PD-LGD-EAD-Expected-Loss
 
 **We calculate PD,LGD,EAD and Expected loss using logistic and beta regressions.** <br/>
+
 Notebook 1: Training dataset preparation (Feature engineering - Continuous and Discrete dataset)<br/>
 Notebook 2: Test dataset preparation<br/>
 Notebook 3: Calculate Probability of Default (POD) and Credit score card preparation<br/>
