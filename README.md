@@ -9,7 +9,7 @@ Notebook 4: Monitor the POD model <br/>
 Notebook 5: Calculate LGD (Loss given dataset) and EAD (Exposure at Default)for individual customers<br/>
 Notebook 6: Compute Expected Loss for individual customers<br/>
 
-**Dataset (Source:Lending Club) **<br/>
+**Dataset (Source:Lending Club)**<br/>
 
 - loan_data_2007_2014 (Train dataset)<br/>
 - loan_data_2015 (Validation dataset)<br/>
